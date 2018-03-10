@@ -14,3 +14,6 @@ $ cd electron-quick-start
 # Install the dependencies and run
 $ npm install && npm start
 ```
+
+
+git clone https://github.com/electron/electron-quick-start
